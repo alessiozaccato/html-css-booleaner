@@ -37,7 +37,7 @@
     font-size: 40px;
 }
 
-#desc1 {
+.desc {
     color: lightslategray;
     margin-bottom: 10px;
 }
@@ -47,14 +47,14 @@
     font-weight: 500;
 }
 
-.secondsection {
+.secondsection,
+.fourthsection {
     padding: 15px 0;
     font-size: 18px;
 }
 
 .thirdsection {
     padding: 15px;
-    font-size: 18px;
 }
 
 table {
@@ -79,7 +79,24 @@ table {
     background-color: lightblue;
 }
 
+.monitor {
+    background-image: url("../img/monitor.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+}
 
+.graph {
+    background-image: url("../img/graph.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    color: white;
+    padding: 15px;
+}
 
 
 
