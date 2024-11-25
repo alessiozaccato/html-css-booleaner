@@ -57,6 +57,29 @@
     font-size: 18px;
 }
 
+table {
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.column25 {
+    width: 25%;
+}
+
+.column50 {
+    width: 50%;
+}
+
+.table_header {
+    color: white;
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+.special_row {
+    background-color: lightblue;
+}
+
+
 
 
 
