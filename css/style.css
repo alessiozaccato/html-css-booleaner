@@ -8,12 +8,12 @@
     background-image: url("../img/pattern.png");
     background-color: lightblue;
     background-size: contain;
-    height: 150px;
+    height: 100px;
 }
 
 .pattern {
     width: 80%;
-    height: 150px;
+    height: 100px;
     margin: 0 auto;
     position: relative;
 }
@@ -21,7 +21,7 @@
 
 .pattern img{
    width: 200px;
-   height: 100px;
+   height: 50px;
    position: absolute;
    left: 0;
    bottom: 0;
@@ -96,6 +96,7 @@ table {
     height: 150px;
     color: white;
     padding: 15px;
+    margin-bottom: 10px;
 }
 
 
