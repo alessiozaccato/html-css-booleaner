@@ -27,12 +27,12 @@
    bottom: 0;
 }
 
-.title {
+.format {
     width: 80%;
     margin: 0 auto;
 }
 
-.title h1 {
+.firstsection h1 {
     padding-top: 5px;
     font-size: 40px;
 }
@@ -46,5 +46,17 @@
     color: blue;
     font-weight: 500;
 }
+
+.secondsection {
+    padding: 15px 0;
+    font-size: 18px;
+}
+
+.thirdsection {
+    padding: 15px;
+    font-size: 18px;
+}
+
+
 
 
