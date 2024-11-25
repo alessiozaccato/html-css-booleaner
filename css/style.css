@@ -81,9 +81,10 @@ table {
 
 .monitor {
     background-image: url("../img/monitor.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 150px;
+    width: 250px;
     color: white;
     padding: 15px;
     margin-bottom: 10px;
@@ -91,9 +92,10 @@ table {
 
 .graph {
     background-image: url("../img/graph.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 150px;
+    width: 250px;
     color: white;
     padding: 15px;
     margin-bottom: 10px;
