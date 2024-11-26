@@ -12,9 +12,7 @@
 }
 
 .pattern {
-    width: 80%;
     height: 100px;
-    margin: 0 auto;
     position: relative;
 }
 
@@ -64,10 +62,6 @@ table {
 
 .column25 {
     width: 25%;
-}
-
-.column50 {
-    width: 50%;
 }
 
 .table_header {
